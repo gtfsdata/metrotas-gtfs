@@ -1,0 +1,20 @@
+From http://www.metrotas.com.au/community/gtfs/
+
+Metro provides GTFS data to external organisations on the basis that you
+acknowledge and agree that Metro Tasmania Pty Ltd (Metro) does not warrant the
+accuracy or completeness of the information provided. There may be errors in
+the information and you should independently check the information is correct
+if you intend to use it.
+
+Neither you, nor any person you provide the information to, should rely on the
+accuracy or completeness of the information provided in respect of any purpose
+for which it may be used by you or any third party.
+
+By using the information provided below, or providing it to a third party for
+use, you agree to release and indemnify Metro for any loss, liability, claim or
+costs arising out of the use of that information.
+
+We require you to provide a similar disclaimer to any person who may use this
+information and you should not use this information if you or a third party
+intend to rely on its accuracy or completeness.
+
