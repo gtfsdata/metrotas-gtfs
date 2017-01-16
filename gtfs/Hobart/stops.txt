@@ -1,6 +1,6 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station
 434,, 45 Stratton Ave,Stratton Ave near Baldwin Pl,-42.85957366060927,147.27776133556776,,,0,
-15051:1,," Campbell St, near City Hall","Campbell St, near Macquarie St",-42.88073836,147.33233035,,,0,
+15051:1,, Campbell St near City Hall,"Campbell St, near Macquarie St",-42.88073836,147.33233035,,,0,
 512,,** Stop Closed  [Acton Cr #37],,-42.82782857903127,147.28827607465675,,,0,
 513,,** Stop Closed  [Acton Cr #38],,-42.82676403576117,147.28964493924138,,,0,
 2029,,** Stop Deleted Dec 16,,-42.89722092798563,147.3135124495946,,,0,
@@ -717,6 +717,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1814,23,556 Churchill Ave,Churchill Ave #23 In,-42.91672338650537,147.35770181286205,,,0,
 1815,26,556 Churchill Ave,Churchill Ave Stop 22 In,-42.91758629720753,147.3555148469504,,,0,
 1920,14,556 Sandy Bay Rd,Sandy Bay Rd #14 Out,-42.90956873589588,147.34840905403095,,,0,
+862,,558 Main Rd,Main Rd past Akamas Drive Out,-42.75746043127412,147.23598353945252,,,0,
 1438,,56 Bayview Rd School Stop Only,56 Bayview Rd School Stop,-42.9130848244471,147.4921032073099,,,0,
 4051,,56 Beach Rd,Beach Rd / Wandanea Pl,-43.02807139310205,147.267283629077,,,0,
 767,,56 Sunshine Rd,Sunshine Rd / Alexa Dr Out,-42.77442181397385,147.24565288009435,,,0,
@@ -734,7 +735,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1740,,58 St Helens St,St Helens St / Sylvan Ct In,-42.85550033928549,147.36946195939936,,,0,
 2801,,58 Woodlands Dr,Woodlands Dr near The Summit,-43.002766,147.312836,,,0,
 1863,35,585 Channel Hwy,Channel Hwy #35 In,-42.97148837,147.32925483,,,0,
-862,,588 Main Rd,Main Rd past Akamas Drive Out,-42.75746043127412,147.23598353945252,,,0,
 1313,31,588-590 Main Rd,Main Rd Strathaven #31 In,-42.81742109,147.2586767,,,0,
 1980,27,589A Nelson Rd,Nelson Rd opp Broughton Ave,-42.92615153077244,147.33380750853948,,,0,
 1722,22,58B Derwent Ave,Derwent Ave Stop 22,-42.84125805020054,147.34389958670982,,,0,
@@ -1189,6 +1189,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2772,,Corpus Christi Catholic School,Corpus Christi (Alma St),-42.87165838743409,147.37247675808044,,,0,
 8786:1,75,Cove Hill Fair,Cove Hill Fair #75 (s),-42.73547517566771,147.24395931285292,,,0,
 786,75,Cove Hill Fair,[NB4] COVE HILL FAIR #75,-42.73545713185055,147.24396437057476,,,0,
+7786:1,,COVE HILL FAIR #75 [BRIGHTON],,-42.73545713,147.24396437,,,0,
 14270:1,,Cradle Mountain Transit,,-41.58158,145.937774,,,0,
 2250,,Cremorne,CREMORNE CENTRAL,-42.9568657987001,147.53299852231999,,,0,
 4052,,Crescent Dr near Incana Rd,Crescent Dr before Incana Rd,-43.03112687568169,147.26492541825823,,,0,
@@ -1272,11 +1273,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4005,,Gellibrand Dr near South Arm Rd,Gellibrand Drive nr South Arm Rd,-43.02458910597241,147.48114613169267,,,0,
 973,,Gerrard St / Creek Rd,Gerrard Street In,-42.85671327659253,147.2905351536109,,,0,
 4552,,Glenorchy Bus Interchange,,-42.8335,147.2743,,,1,
-4118,,Glenorchy Mall,GLENORCHY TERMINUS #C,-42.83313641326769,147.2744418425322,,,0,4552
 4316,,Glenorchy Primary School,Hull St (Outside Gl'orchy PS) In,-42.83257028977601,147.26658564724207,,,0,
 2389,C,Glenorchy Stop C,[NB4] GLENORCHY I/CHANGE #C,-42.83327379039461,147.27436785553698,,,0,4552
+4118,C,Glenorchy Stop C,GLENORCHY TERMINUS #C,-42.83313641326769,147.2744418425322,,,0,4552
 2390,D,Glenorchy Stop D,[NB4] GLENORCHY I/CHANGE #D,-42.83369182,147.27413152940974,,,0,4552
+8390:1,D,Glenorchy Stop D,GLENORCHY I/CHANGE #D [CENTRAL],-42.83369182,147.27413153,,,0,4552
 2391,E,Glenorchy Stop E,[NB4] GLENORCHY I/CHANGE #E,-42.83364919752108,147.2741546016301,,,0,4552
+8391:1,E,Glenorchy Stop E,GLENORCHY I/CHANGE #E [CENTRAL],-42.8336492,147.2741546,,,0,4552
 4086,F,Glenorchy Stop F,GLENORCHY TERMINUS #F,-42.83367778797371,147.27413955900863,,,0,4552
 2392,G,Glenorchy Stop G,[NB4] GLENORCHY I/CHANGE #G,-42.83354281395002,147.27421743323765,,,0,4552
 3443,H,Glenorchy Stop H,[NB4] GLENORCHY I/CHANGE #H,-42.83342974217137,147.27428028786332,,,0,4552
@@ -1536,8 +1539,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3455,,McGough St / Elwick Rd,McGough St before Elwick Rd,-42.827869168945,147.28271430533226,,,0,
 960,1,Menzies Centre - Campbell St,Campbell St (Hospital) #1 In,-42.87930661058154,147.3302501975902,,,0,
 12061:1,,Meredith Street,,-42.50059,147.917636,,,0,
-8310:1,,Metro Springfield #A (s),,-42.83983032332347,147.28926605759156,,,0,
-8383,,Metro Springfield #B (s),,-42.83970637,147.28916529,,,0,
+8310:1,A,Metro Springfield #A (s),,-42.83983032332347,147.28926605759156,,,0,
+8383,B,Metro Springfield #B (s),,-42.83970637,147.28916529,,,0,
 1310,A,Metro Springfield Stop A,[NB4] METRO SPRINGFIELD #A,-42.83982988248618,147.28925399557536,,,0,
 3383,B,Metro Springfield Stop B,[NB4] METRO SPRINGFIELD #B,-42.83970636964466,147.2891652910282,,,0,
 3384,C,Metro Springfield Stop C,[NB4] METRO SPRINGFIELD #C,-42.839561,147.28906,,,0,
