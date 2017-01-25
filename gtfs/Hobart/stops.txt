@@ -1,6 +1,5 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station
 434,, 45 Stratton Ave,Stratton Ave near Baldwin Pl,-42.85957366060927,147.27776133556776,,,0,
-15051:1,, Campbell St near City Hall,"Campbell St, near Macquarie St",-42.88073836,147.33233035,,,0,
 512,,** Stop Closed  [Acton Cr #37],,-42.82782857903127,147.28827607465675,,,0,
 513,,** Stop Closed  [Acton Cr #38],,-42.82676403576117,147.28964493924138,,,0,
 2029,,** Stop Deleted Dec 16,,-42.89722092798563,147.3135124495946,,,0,
@@ -1097,6 +1096,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 19118:1,,Cambridge Road past Maxwells Road,,-42.83485997812265,147.44979346584833,,,0,
 2283,,Cambridge Village,[NB4] CAMBRIDGE VILLAGE IN,-42.83664273127935,147.44234688,,,0,
 2273,,Cambridge Village,Cambridge Village Out,-42.83668872843644,147.44167837294853,,,0,
+15051:1,,Campbell St near City Hall,Campbell St near Macquarie St,-42.88073836,147.33233035,,,0,
 13212:1,,"Car Park, Lake St Clair Road",,-42.116515,146.174464,,,0,
 12158:1,,Caravan Park 4 Vicary St,,-42.508241,147.911073,,,0,
 12058:1,,Caravan Park 4 Vicary Street,,-42.508293,147.910662,,,0,
@@ -1884,7 +1884,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 538,,Opposite 44 Bellevue Pde,Bellevue Pde Out between Bishop and Oldham,-42.85473575760012,147.3133106636107,,,0,
 669,,Opposite 44 Chandos Dr,Chandos Dr (Reserve) #39 Out,-42.81537483,147.2451644,,,0,
 3858,,Opposite 46 Wells Pde,Wells Pde past Pearsall Ave,-43.001432,147.323904,,,0,
-655,27,Opposite 467 Main Rd,Main Rd/Hallam St #27 Out,-42.82912045860669,147.26864771146322,,,0,
+655,27,Opposite 467 Main Rd,Main Rd/Kensington St #27 Out,-42.82912045860669,147.26864771146322,,,0,
 3812,,Opposite 47 Browns Rd,Browns Rd Out,-42.96936708496677,147.31283982136208,,,0,
 1106,30,Opposite 47 Springfield Ave,Springfield Ave / Third Ave #30 In,-42.84438270876471,147.28345412230425,,,0,
 840,,Opposite 48 Tottenham Rd,Tottenham Rd before Laurence Pl,-42.74537345176902,147.2676750732421,,,0,
